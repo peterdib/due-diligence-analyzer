@@ -11,8 +11,23 @@ from pathlib import Path
 
 import pymupdf
 import docx
+import pytesseract
 
 ROOT = Path(__file__).resolve().parent.parent
+
+TESSERACT_EXE = Path(r"C:\Program Files\Tesseract-OCR\tesseract.exe")
+if TESSERACT_EXE.exists():
+    pytesseract.pytesseract.tesseract_cmd = str(TESSERACT_EXE)
+
+
+def ocr_page(page: "pymupdf.Page") -> str:
+    pix = page.get_pixmap(dpi=300)
+    img = pymupdf.Pixmap(pix, 0) if pix.alpha else pix
+    from PIL import Image
+    import io
+
+    image = Image.open(io.BytesIO(img.tobytes("png")))
+    return pytesseract.image_to_string(image)
 
 
 def extract_pdf(path: Path) -> str:
@@ -20,7 +35,12 @@ def extract_pdf(path: Path) -> str:
     with pymupdf.open(path) as pdf:
         for i, page in enumerate(pdf, start=1):
             parts.append(f"\n--- page {i} ---\n")
-            parts.append(page.get_text())
+            text = page.get_text()
+            if not text.strip():
+                text = ocr_page(page)
+                if text.strip():
+                    parts.append("[OCR]\n")
+            parts.append(text)
     return "".join(parts)
 
 
