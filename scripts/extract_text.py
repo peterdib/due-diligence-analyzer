@@ -73,6 +73,8 @@ def main():
             text = extract_pdf(src)
         elif suffix == ".docx":
             text = extract_docx(src)
+        elif suffix in (".md", ".txt"):
+            text = src.read_text(encoding="utf-8")
         else:
             print(f"skip (not text-extractable): {src.name}")
             continue

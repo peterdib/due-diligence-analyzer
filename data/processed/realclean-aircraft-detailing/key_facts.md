@@ -133,3 +133,87 @@ research, not from the franchisor)
 Confirm the same fee/investment/Item 19 figures above; the "3 Year Budget" tab in the workbook
 was blank/unfilled (`#DIV/0!` formulas) in the screenshot — treat as a template only, not
 franchisor-provided projections.
+
+## Franchisee/broker call transcripts (Granola, added 2026-08-27)
+
+Four calls in `data/raw/realclean-aircraft-detailing/Granola Transcript - *.md`. First-hand
+franchisee accounts corroborate several FDD-derived findings above and add new information not
+in the FDD.
+
+### Cory (Raleigh/Greensboro franchisee) — direct read on the Winston-Salem territory
+
+- One of the first ~10 franchisees; opened Raleigh-Greensboro territory October 2025.
+- **Unprompted, independent assessment: the Winston-Salem territory "doesn't make logistical
+  sense."** Reasons given: the anchor airport (Smith Reynolds / "Reynolds airport") has only
+  ~10 flights/day; the surrounding airports are small; RealClean has already done some work
+  there (served on request from his own territory) and doesn't think there's enough business to
+  support a dedicated territory investment. Other airports in the area (Lexington-Davidson,
+  the NASCAR-adjacent strip) are already locked up by full-time incumbent crews tied to specific
+  aircraft owners/pilots — "gonna be hard to penetrate."
+- Confirms **real, non-trivial competition** exists in the Greensboro/Raleigh market too: a
+  competitor lineage (started by a detailer RealClean's own trainer Dustin trained, later sold
+  to "Prime," now owned by "Immaculate") has a strong hold there — contradicts any franchisor
+  claim of minimal competition.
+- Corporate/national-account support was weaker in RealClean's early days (only ~10 locations
+  open) but "gets easier as the network grows."
+- **Unsolicited alternative offer**: Cory and his wife bought the Raleigh-Greensboro territory in
+  June 2025 but both took new jobs/started another business and don't have time to run it. They
+  are considering selling. Cory said he'd give a fellow franchisee (in Eastern Carolina) first
+  right of refusal, but if that falls through he'd contact Peter — territory already has an
+  office at RDU airport, an existing crew, and established clients (including a "royal plane
+  from the family of Abu Dhabi"). No price/terms discussed. **Not yet followed up — worth
+  tracking as a live alternative to Winston-Salem.**
+- Confirms current-franchisee sentiment toward corporate: "the corporate support is there a
+  little bit, but it's much more about" the franchisees building their own peer network
+  (consistent with the confidentiality-clause concern already flagged from Jeff's annotations —
+  franchisees are candid one-on-one but corporate doesn't broker these relationships).
+
+### Kurt (Cape Cod/RI franchisee) — validation call, launched December 2025
+
+- Initial investment ~$250,000 (all-wheel-drive van required for Northeast climate, plus Perma
+  Guard coating certification training) — near the top of the FDD's disclosed $225,685–$417,806
+  range.
+- Sales are almost entirely relationship-driven: cold-calling, showing up at FBOs/hangars in
+  person, badging in at airports. Postcards mailed by corporate "worked" but most volume came
+  from in-person cold outreach.
+- **Badging is slow and airport-dependent**: took 6 months to get badged/vetted at Hyannis; some
+  airports (TF Green) won't badge without a sponsor. Until badged, an escort must physically stay
+  with the crew at all times.
+- **Not cash-flow break-even until year two; recoup of full initial investment not expected until
+  year five** — more conservative than Gian-Carlo Ochoa's experience (see below), underscoring
+  that payback timelines vary widely by territory/season/operator.
+- Guarantees crew 30 hrs/week at $25–30/hr regardless of job volume — a real fixed labor cost
+  during the ramp-up period before revenue catches up.
+- Requires ~$3M general liability + $1M auto liability insurance; some airports (Logan) require
+  up to $10M.
+- 80/20 split of scheduled vs. on-call/walk-up jobs once relationships mature.
+
+### Gian-Carlo Ochoa (New York franchisee) — Q&A call, launched May 2025
+
+- Reached cash-flow break-even by month 3 (faster than Kurt) but recommends new franchisees have
+  **4–6 months of burn in the bank** as a safety margin — he called this his own risk-comfort
+  minimum, not a franchisor guarantee.
+- Initial investment breakdown: ~$80,000 van + ~$80,000 equipment (~$160,000 before
+  labor/marketing/lease costs) — franchisee-financed, not paid cash.
+- Some airports require leasing hangar space ($1,000–$2,000/mo) specifically as a backdoor route
+  to getting badged, not because the franchisee needs the storage.
+- Confirms **no effective marketing ROI from social media or the franchisor's digital
+  efforts** — "haven't found much effective online" — success came entirely from in-person
+  community presence (golf outings, FBO/MRO visits, safety days).
+- Confirms 30-hour-plus weekly minimum wage floor for crew ($30–40/hr in his NY market) is
+  consistent across territories, in line with Kurt's Cape Cod numbers.
+- Hired a dedicated, commission-based sales director (10% of job value) for large corporate RFPs
+  (e.g., a won IBM contract worth an estimated $100k/plane/year) — not part of the standard
+  franchise package; an added cost/complexity beyond the base franchise model.
+- Explicitly recommends **against launching in November/December** due to seasonal slowdown —
+  worth weighing against the Winston-Salem market research's own seasonality assumptions.
+- Confirmed the franchisor is **expanding into Canada (34 territories, opening Aug 31, 2026)**
+  because US territories are running out — a data point on how close the system is to being
+  fully sold out domestically.
+
+### Peter's own check-in call (2026-08-26)
+
+- Confirmation Day is targeting **September 2026**; franchisor wants a go/no-go decision "by this
+  time next week" (i.e., ~2026-09-02) due to lead time needed before the confirmation-day
+  process. **This is now the binding decision deadline for the Winston-Salem/RealClean
+  decision**, independent of the Cory alternative-territory conversation above.

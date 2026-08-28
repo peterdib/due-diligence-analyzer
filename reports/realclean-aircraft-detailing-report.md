@@ -1,8 +1,8 @@
 # Due Diligence Report — RealClean Aircraft Detailing Franchise
-### Territory: Winston-Salem, NC (Tier 1) — Draft v1, 2026-08-18
+### Territory: Winston-Salem, NC (Tier 1) — Draft v2, 2026-08-27
 
 *Full source data: `data/processed/realclean-aircraft-detailing/key_facts.md`. Raw documents:
-`data/raw/realclean-aircraft-detailing/`.*
+`data/raw/realclean-aircraft-detailing/`, including 4 Granola call transcripts added 2026-08-27.*
 
 ## Bottom line
 
@@ -16,6 +16,15 @@ locations are running well below the sales level needed to cover the minimum roy
 Several franchise-agreement terms (no exclusive territory, personal guaranty, franchisor data
 ownership, AI-use restriction, undefined subscription fee) warrant attorney review before
 signing.
+
+**New since Draft v1:** a call with Cory, the current Raleigh/Greensboro-area franchisee, raised
+a direct, unprompted concern that **the Winston-Salem territory specifically does not have
+enough air traffic to justify the investment** — and separately offered you first right of
+refusal on his own Raleigh-Greensboro territory (an established, revenue-producing unit) if it
+becomes available. Three other franchisee calls corroborate several FDD-derived numbers and add
+real-world investment/payback/marketing detail. The franchisor's own timeline now puts a
+go/no-go decision due **within about a week (~2026-09-02)** ahead of a September Confirmation
+Day.
 
 ## Deal snapshot
 
@@ -50,37 +59,64 @@ signing.
 
 ## What's concerning
 
-1. **Financial performance data isn't representative of this deal.** Item 19's only historical
+1. **A current, nearby franchisee independently told us the Winston-Salem territory doesn't
+   pencil out.** Cory, the Raleigh/Greensboro franchisee, has served the Winston-Salem area on
+   an ad-hoc basis from his own territory and told Peter directly: the anchor airport (Smith
+   Reynolds / "Reynolds") only sees ~10 flights/day, the surrounding airports are small, and he
+   doesn't believe there's enough business there to support a dedicated territory investment.
+   He also named specific nearby anchors (Lexington-Davidson, the NASCAR-adjacent strip) as
+   already locked up by full-time incumbent crews tied to specific owners/pilots. This is a
+   direct, first-hand contradiction of the "Winston-Salem territory is workable" conclusion in
+   the independent GA Operations market research below — it should be resolved before proceeding,
+   not layered on top of the existing analysis.
+   - **Separately, Cory raised the possibility of selling you his own Raleigh-Greensboro
+     territory** (bought June 2025, already has an office at RDU, an existing crew, and
+     established clients) if a first-refusal offer to another franchisee falls through. No price
+     or terms discussed yet. Worth actively following up given the Winston-Salem concerns above.
+2. **Financial performance data isn't representative of this deal.** Item 19's only historical
    P&L (net profit 20–22% margin, ~$1.9M revenue) is from the one affiliate-owned location, in a
    territory with ~771 aircraft / 48.5 businesses — bigger than even the Tier 1 cap, and ~33%
    larger than the Winston-Salem territory (581 aircraft / 37 businesses). A same-size
    Winston-Salem operation should be expected to produce proportionally less revenue, not the
    $1.9M shown.
-2. **The franchise system has no real track record yet.** All 26 franchised outlets opened in
+3. **The franchise system has no real track record yet.** All 26 franchised outlets opened in
    2025. Nobody in the franchise network (as opposed to the company-owned location) has a full
    year of financial history. You would be an early adopter, not buying into a proven playbook.
-3. **Bottom-tier franchisee performance is weak relative to the minimum royalty floor.** In the
+4. **Bottom-tier franchisee performance is weak relative to the minimum royalty floor.** In the
    9-location cohort with 7+ months of data, the bottom third posted monthly sales as low as
    ~$1,000–$5,000 — far under the ~$23,467/month sales level implied by the $1,760 minimum
    royalty due starting month 7. That gap either means those franchisees are paying royalty well
    above the nominal 7.5% rate, or falling behind on the minimum-royalty obligation.
    Worth asking the franchisor directly what's driving the bottom-tier gap (territory quality,
    owner engagement, startup timing) before assuming Winston-Salem lands in the top tier.
-4. **No exclusive territory**, despite paying a per-aircraft/per-business territory fee. The
+5. **Payback timelines vary widely by territory, and franchisee accounts diverge from the FDD's
+   implied pace.** Kurt (Cape Cod/RI) does not expect cash-flow break-even until year two and
+   full investment recoupment until year five; Gian-Carlo Ochoa (NY) reached break-even by month
+   three but personally recommends carrying 4–6 months of burn as a cushion, and has not yet
+   recouped his ~$160,000 van/equipment investment after 3 months. Treat any single-territory
+   payback estimate as directional, not a guarantee, and budget conservatively toward the Kurt
+   end of the range for a smaller/less-proven territory like Winston-Salem.
+6. **The franchisor's "limited competition" positioning is contradicted by current franchisees.**
+   Cory named a specific, well-funded competitor lineage active in his own Greensboro market
+   (traced back to a detailer trained by RealClean's own trainer, later acquired twice). This
+   echoes Item 19/FDD language and should be weighed against any franchisor claim that the
+   market is uncontested.
+7. **No exclusive territory**, despite paying a per-aircraft/per-business territory fee. The
    franchisor can license other operators (even at the same airport), run national/regional
    accounts in your territory without compensating you, and reserves broad rights to serve your
    territory itself under several conditions.
-5. **One known 2026 termination** (South Houston) not yet reflected in the FDD's disclosed
+8. **One known 2026 termination** (South Houston) not yet reflected in the FDD's disclosed
    tables — worth a direct question to the franchisor about why, since it's the first data point
    on what happens when a RealClean franchisee exits.
-6. **Franchise-agreement terms that need an attorney's eyes**: personal guaranty from all
+9. **Franchise-agreement terms that need an attorney's eyes**: personal guaranty from all
    owners (survives LLC bankruptcy), franchisor's unrestricted ownership/access to your business
    data, a ban on using generative AI in the business without written approval, mandatory
    suppliers where the franchisor collects payments from vendors on your purchases, and an
    as-yet-undefined administrative fee tied to a future subscription product.
-7. **Confidentiality clauses** restrict existing/former franchisees from freely discussing their
-   experience — expect limited color from reference calls unless you ask pointed, specific
-   questions.
+10. **Confidentiality clauses** restrict existing/former franchisees from freely discussing their
+    experience — in practice, the 4 franchisee calls gathered so far were candid one-on-one, but
+    the clause still limits how much color you'll get in a corporate-arranged validation call
+    versus an independent outreach like the Cory call.
 
 ## Open questions for the franchisor / broker
 
@@ -95,6 +131,13 @@ signing.
 - What is the mechanism/cap for the still-undefined subscription-model administrative fee?
 - Can they name and provide contact info for 3–5 current franchisees outside the confidentiality
   restriction (or explicitly release you to discuss terms freely with them)?
+- **New:** Given a current nearby franchisee (Cory) says Winston-Salem's Smith Reynolds anchor
+  sees only ~10 flights/day and doesn't think the territory supports the investment, does the
+  franchisor have flight-volume/registered-aircraft data more granular than the 581-aircraft
+  territory-wide figure to reconcile this with the independent GA Operations research?
+- **New:** Is a resale of an existing, revenue-producing territory (e.g., the Raleigh-Greensboro
+  territory Cory may sell) available as an alternative path into the system, and if so what is
+  the franchisor's approval/transfer process and typical resale pricing basis?
 
 ## Recommended next steps
 
@@ -111,9 +154,22 @@ signing.
    territory size, not the 771-aircraft affiliate territory.
 5. Confirm SBA/franchise financing terms given the personal guaranty already required by the
    franchise agreement (stacking a loan guaranty on top adds further personal exposure).
+6. **New:** Resolve the Winston-Salem viability conflict before the go/no-go deadline — reconcile
+   Cory's ~10-flights/day claim about Smith Reynolds against the independent GA Operations
+   research's opportunity-score-10/10 assessment of the same airport. Consider an independent
+   site visit/flight-count check if time allows.
+7. **New:** Follow up directly with Cory on the Raleigh-Greensboro territory resale possibility —
+   get a price indication and confirm whether the other franchisee's first-refusal window has
+   closed, given the September Confirmation Day timeline.
 
 ## Log
 
 - 2026-08-18: Initial extraction and analysis from source documents (FDD, Jeff's annotations,
   candidate presentation, GA Operations market research, unit economics workbook screenshots).
   Draft v1 of this report produced.
+- 2026-08-27: Added 4 Granola call transcripts (validation calls with Kurt and Gian-Carlo Ochoa,
+  a call with Raleigh/Greensboro franchisee Cory, and Peter's own confirmation-day check-in) to
+  `data/raw/`. Re-ran `extract_text.py` (extended to support `.md`/`.txt` sources) and updated
+  `key_facts.md` and this report to Draft v2. Most significant new finding: Cory's first-hand
+  assessment that the Winston-Salem territory lacks sufficient air traffic to support the
+  investment, plus his offer of first right of refusal on his own Raleigh-Greensboro territory.
