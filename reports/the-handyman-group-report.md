@@ -1,5 +1,5 @@
 # Due Diligence Report — The Handyman Group Franchise
-### No territory selected yet — Draft v1, 2026-08-25
+### No territory selected yet — Draft v2, 2026-09-01
 
 *Full source data: `data/processed/the-handyman-group/key_facts.md`. Raw documents:
 `data/raw/the-handyman-group/`.*
@@ -86,6 +86,43 @@ guaranty terms follow the same pattern seen in other young franchise systems rev
 8. **Aggressive multi-state expansion plan** (36 more franchised outlets projected next fiscal
    year, spread across 7+ new states) for a system this young — worth asking how support,
    training capacity, and territory quality control scale alongside that growth rate.
+9. **Franchisor marketing material cites specific revenue figures the FDD never discloses.**
+   A "Vivid Vision 2028" document given directly to Peter (a franchisor-authored aspirational
+   piece, framed as describing the company "as it will look, feel, and operate on
+   December 31, 2028") projects $200M+ system-wide revenue, $15M+ royalty revenue, and
+   per-territory earnings tiers ("K-Club" $250K/$500K/$750K/$1M, claiming 50+ Advisory Boards
+   and 35+ franchisees already in the higher combined-revenue clubs) — none of it substantiated
+   in Item 19, which remains empty. Under the FTC Franchise Rule, financial performance
+   representations made to prospects are supposed to flow through Item 19 disclosure.
+
+## New document: "Vivid Vision 2028"
+
+Added `data/raw/the-handyman-group/Local Handyman - Vivid Vision 2028 ABF.pdf` — a
+franchisor-authored aspirational/culture document (written by consultant Colin Sprake), not a
+disclosure document. It describes the business as of Dec 31, 2028: 100+ territories in Canada,
+350+ in the U.S., 250+ multi-territory owners, $200M+ system-wide revenue, $15M+ royalty
+revenue, and heavy reliance on AI agents for client communication, hiring, marketing,
+scheduling, and analytics. Compare against the FDD: only ~49 U.S. territories sold/opened as of
+Nov 2025, and just $2,911 in actual royalty income disclosed for the US entity's first stub
+period.
+
+## 5 questions for the CEO
+
+- **Item 19 vs. this document's numbers.** Which of the figures in the Vivid Vision document
+  (if any) reflect current actual performance rather than the 2028 target, and why isn't any of
+  it in the FDD?
+- **The growth gap.** What's the real territory count and revenue run-rate today, and what's the
+  credible plan to go from ~49 to 350+ U.S. territories in about three years?
+- **The guarantor mismatch.** How does a company on track for $200M+ system revenue by 2028
+  reconcile with The Local Handyman Group Ltd.'s widening net loss and deepening $(1.2M)
+  negative-equity position today, and what's the plan to fix the guarantor's balance sheet?
+- **K-Club reference access.** Can the CEO connect Peter directly with several specific
+  top-performing Success Partners (K-Club/M-Club members) for reference calls, not ones
+  pre-selected by corporate?
+- **AI tooling — cost and data ownership.** Are the AI agent tools described in the vision
+  included in the existing $1,500/mo Franchise Support Engine Fee or billed separately, and who
+  owns/controls the data they operate on, given Item 11 already grants the franchisor
+  unrestricted data access?
 
 ## Open questions for the franchisor / broker
 
@@ -126,3 +163,8 @@ guaranty terms follow the same pattern seen in other young franchise systems rev
   `extract_annotations.py` — 0 annotations found). Draft v1 of this report produced. No
   target territory selected yet; no financials, listing, or contract documents beyond the FDD
   gathered so far.
+- 2026-09-01: Added "Local Handyman - Vivid Vision 2028" (franchisor culture/vision document,
+  copied from `Desktop/The Handyman Group/`) to `data/raw/the-handyman-group/`. Ran
+  `extract_text.py`. Flagged the gap between its 2028 revenue/territory projections and the
+  FDD's Item 19/20 disclosures as a new red flag, and drafted a 5-question list for the CEO.
+  Draft v2. Republished as browser-friendly Artifact.
